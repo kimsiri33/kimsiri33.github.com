@@ -4,7 +4,7 @@ categories: posts
 title: Coding class
 subtitle: This is a test post.
 featured-image: /images/2016-11-19/abstract-1.jpg
-tags: [sample post]
+tags: [code post]
 date-string: April 9, 2021
 ---
 
