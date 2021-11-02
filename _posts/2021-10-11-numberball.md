@@ -4,7 +4,7 @@ categories: posts
 title: number baseball
 subtitle: baseball is fun
 tags: [code post]
-date-string: OCTOBER 11, 2021
+date-string: OCTOBER 11, 2019
 ---
 
 ```python
