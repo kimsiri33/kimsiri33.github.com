@@ -28,42 +28,42 @@ if __name__ == "__main__":
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
+    <head>
+    <style>
+        table {
+          font-family: arial, sans-serif;
+          border-collapse: collapse;
+          width: 100%;
+        }
 
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
+        td, th {
+          border: 1px solid #dddddd;
+          text-align: left;
+          padding: 8px;
+        }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-<body>
+        tr:nth-child(even) {
+          background-color: #dddddd;
+        }
+    </style>
+    </head>
+    <body>
 
-<h2>HTML MOVIE TABLE</h2>
+    <h2>HTML MOVIE TABLE</h2>
 
-<table>
-  <tr>
-    <th>순위</th>
-    <th>영화</th>
-  </tr>
-  {% for key,value in values.items() %}
-  <tr>
-    <td>{{ key }} 순위</td>
-    <td>{{ value }}</td>
-  </tr>
-  {% endfor %}
-</table>
+    <table>
+      <tr>
+        <th>순위</th>
+        <th>영화</th>
+      </tr>
+      {% for key,value in values.items() %}
+      <tr>
+        <td>{{ key }} 순위</td>
+        <td>{{ value }}</td>
+      </tr>
+      {% endfor %}
+    </table>
 
-</body>
+    </body>
 </html>
 ```
