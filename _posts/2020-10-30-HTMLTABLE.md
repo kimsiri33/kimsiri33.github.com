@@ -49,7 +49,7 @@ if __name__ == "__main__":
     </head>
     <body>
 
-    <h2>HTML MOVIE TABLE</h2>
+        <h2>HTML MOVIE TABLE</h2>
 
     <table>
       <tr>
