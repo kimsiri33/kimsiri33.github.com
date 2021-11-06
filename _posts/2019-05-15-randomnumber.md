@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: posts
-title: Coding class
-subtitle: This is a test post.
+title: randonmunber
+subtitle: 비슷한 숫자 모으기
 tags: [code post]
 date-string: MAY 15, 2019
 ---
