@@ -4,7 +4,7 @@ categories: posts
 title: Coding class
 subtitle: This is a test post.
 tags: [code post]
-date-string: MAY 15, 2020
+date-string: MAY 15, 2019
 ---
 
 ```python
