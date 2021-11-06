@@ -26,7 +26,6 @@ if __name__ == "__main__":
 ```
 
 <pre>
-<!DOCTYPE html>
 <html>
     <head>
     <style>
