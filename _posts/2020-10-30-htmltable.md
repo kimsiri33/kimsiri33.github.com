@@ -48,9 +48,7 @@ if __name__ == "__main__":
     </style>
     </head>
     <body>
-
         <h2>HTML MOVIE TABLE</h2>
-
     <table>
       <tr>
         <th>순위</th>
