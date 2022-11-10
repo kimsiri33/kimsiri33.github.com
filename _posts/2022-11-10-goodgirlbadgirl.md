@@ -39,7 +39,7 @@ def kkk(popo):
 
 > 뉴스 기사를 가져와서 긍정 부정 계산하기
 
-```python
+```
 import re
 import requests
 from bs4 import BeautifulSoup
@@ -62,7 +62,7 @@ def collect(url):
 
 > 뉴스 기사 본문을 가져오는 함수
 
-```python
+```
 from flask import Flask, render_template, request, url_for, redirect
 import pymysql.cursors
 from happybadword import kkk
