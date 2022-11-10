@@ -36,7 +36,9 @@ def kkk(popo):
     list=[di,sds]
     return list
 ```
+
 > 뉴스 기사를 가져와서 긍정 부정 계산하기
+
 ```python
 import re
 import requests
@@ -57,7 +59,9 @@ def collect(url):
     content=content.replace(pattern2,'')
     return content
 ```
+
 > 뉴스 기사 본문을 가져오는 함수
+
 ```python
 from flask import Flask, render_template, request, url_for, redirect
 import pymysql.cursors
